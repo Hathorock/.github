@@ -5,3 +5,10 @@
  Dialogues](https://suno.com/song/c2a4d57a-16a3-4907-a879-88f84bc23cbc)
 * [I lost all my credits](https://suno.com/song/32563c85-a241-4536-8fd1-4cb7df3d745c)
 * [Iron will's fury](https://suno.com/song/02504260-eaf3-4e21-ad20-cdff56791186)
+
+
+# [Replicate](https://replicate.com/explore)
+
+* [ToonCrafter](https://replicate.com/fofr/tooncrafter)
+* [AI photo interpolation](https://replicate.com/google-research/frame-interpolation)
+* [3D photo video](https://replicate.com/pollinations/3d-photo-inpainting)
