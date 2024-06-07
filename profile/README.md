@@ -21,3 +21,8 @@
 * [Text to video](https://replicate.com/cjwbw/videocrafter)
 * [Animate prompt travel](https://replicate.com/zsxkib/animatediff-prompt-travel)
 * [Cartoonify vdeo](https://replicate.com/sanzgiri/cartoonify_video)
+
+# A tester
+
+* [pinokio](https://pinokio.computer/)
+* 
