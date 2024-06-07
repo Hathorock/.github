@@ -25,4 +25,6 @@
 # A tester
 
 * [pinokio](https://pinokio.computer/)
+
+* [Stable diffusion audio](https://www.stableaudio.com/)
 * 
