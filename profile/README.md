@@ -24,10 +24,20 @@
 
 # A tester
 
+## Pinokio
 * [pinokio](https://pinokio.computer/)
 
+## Audio
 * [Stable diffusion audio](https://www.stableaudio.com/)
-* 
+
+## Dessin
+* [tensor.art](https://tensor.art/)
+* [leonardo.ai](https://leonardo.ai/)
+* [freepik](https://www.freepik.com/ai/image-generator)
+* [copilot](https://copilot.microsoft.com/)
+* [ideogram](https://ideogram.ai/login)
+* [nightcafe](https://creator.nightcafe.studio/)
+* [playground](https://playground.com/)
 
 # Animation JS
 
