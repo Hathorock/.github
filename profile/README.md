@@ -1,3 +1,5 @@
+# [Glossary](https://github.com/Hathorock/.github/tree/main/glossary)
+
 # SUNO
 
 * [HITS](https://suno.com/playlist/9b0bceb1-cf67-4179-ad6d-a199da62b2bd)
