@@ -10,6 +10,8 @@
 * [I lost all my credits](https://suno.com/song/32563c85-a241-4536-8fd1-4cb7df3d745c)
 * [Iron will's fury](https://suno.com/song/02504260-eaf3-4e21-ad20-cdff56791186)
 
+* [Guide to Epic Music Creation](https://www.reddit.com/r/SunoAI/comments/1if74n5/guide_to_epic_music_creation/?show=original)
+
 
 # [Replicate](https://replicate.com/explore)
 
@@ -51,6 +53,4 @@
 
 * [Travel space](https://webgl-space-travel.requin.pro/)
 
-# Haiper
 
-* https://haiper.ai/creation/664d01ef8597e25ddaff1228
