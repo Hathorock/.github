@@ -2,6 +2,10 @@
 
 # [Songs](https://github.com/Hathorock/songs)
 
+# Voice
+
+[<img src="https://github.com/jamiepine/voicebox/raw/main/.github/assets/icon-dark.webp" height=28/> Voicebox](https://github.com/jamiepine/voicebox)
+
 # SUNO
 
 * [HITS](https://suno.com/playlist/9b0bceb1-cf67-4179-ad6d-a199da62b2bd)
@@ -11,6 +15,7 @@
 * [Iron will's fury](https://suno.com/song/02504260-eaf3-4e21-ad20-cdff56791186)
 
 * [Guide to Epic Music Creation](https://www.reddit.com/r/SunoAI/comments/1if74n5/guide_to_epic_music_creation/?show=original)
+
 
 
 # [Replicate](https://replicate.com/explore)
