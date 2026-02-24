@@ -16,7 +16,9 @@
 
 * [Guide to Epic Music Creation](https://www.reddit.com/r/SunoAI/comments/1if74n5/guide_to_epic_music_creation/?show=original)
 
+# Huggingface
 
+* [3D camera controll](https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera)
 
 # [Replicate](https://replicate.com/explore)
 
