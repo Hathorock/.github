@@ -39,6 +39,8 @@
 
 ## Videos 
 * [axellia](https://www.axellai.com/)
+* https://www.utopaistudios.com/pai
+* https://leronx.org/
 
 ## Pinokio
 * [pinokio](https://pinokio.computer/)
