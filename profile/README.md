@@ -41,6 +41,7 @@
 * [axellia](https://www.axellai.com/)
 * https://www.utopaistudios.com/pai
 * https://leronx.org/
+* [Acid studio](acid-studio.net)
 
 ## Pinokio
 * [pinokio](https://pinokio.computer/)
