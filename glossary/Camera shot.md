@@ -1,5 +1,8 @@
 # Camera shot glossary
 
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/359b9df2-e29a-4e17-8198-ac480d7df703" />
+
+
 ## Close-Up
 A tightly framed shot that focuses closely on a subject, revealing details and emotions.
 
